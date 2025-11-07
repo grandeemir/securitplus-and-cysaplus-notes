@@ -1,10 +1,21 @@
-# Security+ and CySa+ Study notes
-My cyber security notes
+# 🛡️ Security+ and CySa+ Study notes
 
-[TCP_IP Nedir ve Nasıl Çalışır.pdf](https://github.com/user-attachments/files/19486156/TCP_IP.Nedir.ve.Nasil.Calisir-1.pdf)
+CompTIA Security+ (Sec+) Study Notes
 
-[Vulnerability Managment.pdf](https://github.com/user-attachments/files/19486173/Vulnerability.Managment-1.pdf)
+Welcome to my repository dedicated to studying and reviewing the CompTIA Security+ (SY0-701) and CySa+ (CS0-003) certification.
 
-[Protection .pdf](https://github.com/user-attachments/files/19486176/Protection.pdf)
+This repository serves as a collection of my personal notes, following the official exam objectives. It's designed to be a clear and navigable resource for anyone pursuing their foundational security certification.
 
-[Network Security.pdf](https://github.com/user-attachments/files/19486185/Network.Security.pdf)
+💡 How to Use These Notes
+
+```xml
+ https://github.com/grandeemir/securitplus-and-cysaplus-notes
+```
+
+
+
+Navigate by Domain: Select the domain you are currently studying (e.g., 03_Implementation/).
+
+Review the Files: All core content is in easily readable Markdown (.md) files.
+
+Cross-Reference: Use the domain structure to quickly map concepts back to the official exam objectives.
